@@ -1,0 +1,21 @@
+# Click Game
+
+A very simple beginner-friendly web project built using basic HTML and JavaScript.  
+The game increases a counter every time the user clicks a button.
+
+# Features
+- Click button to increase count
+- Reset button to set count back to zero
+- Uses only basic HTML and JavaScript
+- No external libraries
+
+# Technologies Used
+- HTML
+- JavaScript
+
+# How to Run the Project
+1. Download or clone the repository
+2. Open the `click-counter.html` file in any web browser
+3. Click the **Click Me** button to increase the count
+4. Click **Reset** to reset the counter
+
